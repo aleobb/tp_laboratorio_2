@@ -68,13 +68,16 @@ namespace Entidades_2017
                 switch (tipo)
                 {
                     case ETipo.Snacks:
-                        sb.AppendLine(v.Mostrar());
+                        if(v is Snacks)
+                            sb.AppendLine(v.Mostrar());
                         break;
                     case ETipo.Dulce:
-                        sb.AppendLine(v.Mostrar());
+                        if(v is Dulce)
+                            sb.AppendLine(v.Mostrar());
                         break;
                     case ETipo.Leche:
-                        sb.AppendLine(v.Mostrar());
+                        if(v is Leche)
+                            sb.AppendLine(v.Mostrar());
                         break;
                     default:
                         sb.AppendLine(v.Mostrar());
@@ -88,7 +91,7 @@ namespace Entidades_2017
 
         #region "Operadores"
         /// <summary>
-        /// Agregará un elemento a la lista
+        /// Agregará un elemento a la lista si éste no se encuentra
         /// </summary>
         /// <param name="c">Objeto donde se agregará el elemento</param>
         /// <param name="p">Objeto a agregar</param>

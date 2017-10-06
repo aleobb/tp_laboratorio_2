@@ -26,7 +26,7 @@ namespace Entidades_2017
 
 
         /// <summary>
-        /// Por defecto, TIPO será ENTERA
+        /// Constructor que recibe todos los datos como parametro (incluyendo el tipo de leche)
         /// </summary>
         /// <param name="marca"></param>
         /// <param name="patente"></param>
@@ -45,11 +45,15 @@ namespace Entidades_2017
         {
             get
             {
-                return 20; //this.CantidadCalorias;
+                return 20; 
             }
         }
 
-        public override string Mostrar()
+        /// <summary>
+        /// Metodo publico por el cual se genera un string con todos los datos del objeto
+        /// </summary>
+        /// <returns></returns>
+        public override sealed string Mostrar()
         {
             StringBuilder sb = new StringBuilder();
 

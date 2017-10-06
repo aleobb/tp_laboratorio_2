@@ -30,7 +30,11 @@ namespace Entidades_2017
             }
         }
 
-        public override string Mostrar() ///// hay que sacar el sealed!?!?!??!?!?!?!
+        /// <summary>
+        /// Metodo publico por el cual se genera un string con todos los datos del objeto
+        /// </summary>
+        /// <returns></returns>
+        public override sealed string Mostrar()
         {
             StringBuilder sb = new StringBuilder();
 

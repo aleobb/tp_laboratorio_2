@@ -30,10 +30,10 @@ namespace Entidades_2017
         }
 
         /// <summary>
-        /// Metodo privado por el cual se genera un string con todos los datos del objeto
+        /// Metodo publico por el cual se genera un string con todos los datos del objeto
         /// </summary>
         /// <returns></returns>
-        public override string Mostrar()
+        public override sealed string Mostrar()
         {
             StringBuilder sb = new StringBuilder();
 
