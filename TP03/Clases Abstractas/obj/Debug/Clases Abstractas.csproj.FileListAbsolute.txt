@@ -7,3 +7,12 @@ E:\Prog-Lab_II\tp_laboratorio_2\Alejandro.Ben.2C\Clases Abstractas\bin\Debug\Exc
 E:\Prog-Lab_II\tp_laboratorio_2\Alejandro.Ben.2C\Clases Abstractas\obj\Debug\Clases Abstractas.csprojResolveAssemblyReference.cache
 E:\Prog-Lab_II\tp_laboratorio_2\Alejandro.Ben.2C\Clases Abstractas\obj\Debug\Clases Abstractas.dll
 E:\Prog-Lab_II\tp_laboratorio_2\Alejandro.Ben.2C\Clases Abstractas\obj\Debug\Clases Abstractas.pdb
+G:\Prog-Lab_II\tp_laboratorio_2\Alejandro.Ben.2C\Clases Abstractas\bin\Debug\Clases Abstractas.dll.config
+G:\Prog-Lab_II\tp_laboratorio_2\Alejandro.Ben.2C\Clases Abstractas\bin\Debug\Clases Abstractas.dll
+G:\Prog-Lab_II\tp_laboratorio_2\Alejandro.Ben.2C\Clases Abstractas\bin\Debug\Clases Abstractas.pdb
+G:\Prog-Lab_II\tp_laboratorio_2\Alejandro.Ben.2C\Clases Abstractas\bin\Debug\Excepciones.dll
+G:\Prog-Lab_II\tp_laboratorio_2\Alejandro.Ben.2C\Clases Abstractas\bin\Debug\Excepciones.pdb
+G:\Prog-Lab_II\tp_laboratorio_2\Alejandro.Ben.2C\Clases Abstractas\bin\Debug\Excepciones.dll.config
+G:\Prog-Lab_II\tp_laboratorio_2\Alejandro.Ben.2C\Clases Abstractas\obj\Debug\Clases Abstractas.csprojResolveAssemblyReference.cache
+G:\Prog-Lab_II\tp_laboratorio_2\Alejandro.Ben.2C\Clases Abstractas\obj\Debug\Clases Abstractas.dll
+G:\Prog-Lab_II\tp_laboratorio_2\Alejandro.Ben.2C\Clases Abstractas\obj\Debug\Clases Abstractas.pdb

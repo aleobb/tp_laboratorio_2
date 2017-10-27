@@ -11,19 +11,18 @@ E:\Prog-Lab_II\tp_laboratorio_2\Alejandro.Ben.2C\Clases Instanciables\bin\Debug\
 E:\Prog-Lab_II\tp_laboratorio_2\Alejandro.Ben.2C\Clases Instanciables\bin\Debug\Excepciones.pdb
 E:\Prog-Lab_II\tp_laboratorio_2\Alejandro.Ben.2C\Clases Instanciables\obj\Debug\Clases Instanciables.dll
 E:\Prog-Lab_II\tp_laboratorio_2\Alejandro.Ben.2C\Clases Instanciables\obj\Debug\Clases Instanciables.pdb
-C:\tp_laboratorio_2\TP03\Clases Instanciables\bin\Debug\Clases Instanciables.dll.config
-C:\tp_laboratorio_2\TP03\Clases Instanciables\bin\Debug\Clases Instanciables.dll
-C:\tp_laboratorio_2\TP03\Clases Instanciables\bin\Debug\Clases Instanciables.pdb
-C:\tp_laboratorio_2\TP03\Clases Instanciables\bin\Debug\Archivos.dll
-C:\tp_laboratorio_2\TP03\Clases Instanciables\bin\Debug\Clases Abstractas.dll
-C:\tp_laboratorio_2\TP03\Clases Instanciables\bin\Debug\Excepciones.dll
-C:\tp_laboratorio_2\TP03\Clases Instanciables\bin\Debug\Archivos.pdb
-C:\tp_laboratorio_2\TP03\Clases Instanciables\bin\Debug\Archivos.dll.config
-C:\tp_laboratorio_2\TP03\Clases Instanciables\bin\Debug\Clases Abstractas.pdb
-C:\tp_laboratorio_2\TP03\Clases Instanciables\bin\Debug\Clases Abstractas.dll.config
-C:\tp_laboratorio_2\TP03\Clases Instanciables\bin\Debug\Excepciones.pdb
-C:\tp_laboratorio_2\TP03\Clases Instanciables\bin\Debug\Excepciones.dll.config
-C:\tp_laboratorio_2\TP03\Clases Instanciables\obj\Debug\Clases Instanciables.csprojResolveAssemblyReference.cache
-C:\tp_laboratorio_2\TP03\Clases Instanciables\obj\Debug\Clases Instanciables.csproj.CoreCompileInputs.cache
-C:\tp_laboratorio_2\TP03\Clases Instanciables\obj\Debug\Clases Instanciables.dll
-C:\tp_laboratorio_2\TP03\Clases Instanciables\obj\Debug\Clases Instanciables.pdb
+G:\Prog-Lab_II\tp_laboratorio_2\Alejandro.Ben.2C\Clases Instanciables\bin\Debug\Clases Instanciables.dll.config
+G:\Prog-Lab_II\tp_laboratorio_2\Alejandro.Ben.2C\Clases Instanciables\bin\Debug\Clases Instanciables.dll
+G:\Prog-Lab_II\tp_laboratorio_2\Alejandro.Ben.2C\Clases Instanciables\bin\Debug\Clases Instanciables.pdb
+G:\Prog-Lab_II\tp_laboratorio_2\Alejandro.Ben.2C\Clases Instanciables\bin\Debug\Archivos.dll
+G:\Prog-Lab_II\tp_laboratorio_2\Alejandro.Ben.2C\Clases Instanciables\bin\Debug\Clases Abstractas.dll
+G:\Prog-Lab_II\tp_laboratorio_2\Alejandro.Ben.2C\Clases Instanciables\bin\Debug\Excepciones.dll
+G:\Prog-Lab_II\tp_laboratorio_2\Alejandro.Ben.2C\Clases Instanciables\bin\Debug\Archivos.pdb
+G:\Prog-Lab_II\tp_laboratorio_2\Alejandro.Ben.2C\Clases Instanciables\bin\Debug\Archivos.dll.config
+G:\Prog-Lab_II\tp_laboratorio_2\Alejandro.Ben.2C\Clases Instanciables\bin\Debug\Clases Abstractas.pdb
+G:\Prog-Lab_II\tp_laboratorio_2\Alejandro.Ben.2C\Clases Instanciables\bin\Debug\Clases Abstractas.dll.config
+G:\Prog-Lab_II\tp_laboratorio_2\Alejandro.Ben.2C\Clases Instanciables\bin\Debug\Excepciones.pdb
+G:\Prog-Lab_II\tp_laboratorio_2\Alejandro.Ben.2C\Clases Instanciables\bin\Debug\Excepciones.dll.config
+G:\Prog-Lab_II\tp_laboratorio_2\Alejandro.Ben.2C\Clases Instanciables\obj\Debug\Clases Instanciables.csprojResolveAssemblyReference.cache
+G:\Prog-Lab_II\tp_laboratorio_2\Alejandro.Ben.2C\Clases Instanciables\obj\Debug\Clases Instanciables.dll
+G:\Prog-Lab_II\tp_laboratorio_2\Alejandro.Ben.2C\Clases Instanciables\obj\Debug\Clases Instanciables.pdb

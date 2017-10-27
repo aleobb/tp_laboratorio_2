@@ -18,6 +18,9 @@ namespace EntidadesAbstractas
         ENacionalidad nacionalidad;
         string nombre;
 
+        /// <summary>
+        /// Propiedad publica lectura/escritura Apellido
+        /// </summary>
         public string Apellido
         {
             get
@@ -30,6 +33,9 @@ namespace EntidadesAbstractas
             }
         }
 
+        /// <summary>
+        /// Propiedad publica lectura/escritura DNI
+        /// </summary>
         public int DNI
         {
             get
@@ -42,6 +48,9 @@ namespace EntidadesAbstractas
             }
         }
 
+        /// <summary>
+        /// Propiedad publica lectura/escritura Nacionalidad
+        /// </summary>
         public ENacionalidad Nacionalidad
         {
             get
@@ -54,6 +63,9 @@ namespace EntidadesAbstractas
             }
         }
 
+        /// <summary>
+        /// Propiedad publica lectura/escritura Nombre
+        /// </summary>
         public string Nombre
         {
             get
@@ -66,17 +78,30 @@ namespace EntidadesAbstractas
             }
         }
 
+        
+        /// <summary>
+        /// Propiedad publica escritura string_DNI
+        /// </summary>
         public string StringToDNI
         {
             set
             {
-                this.DNI = ValidarDNI(this.nacionalidad, value);
+                this.DNI = ValidarDNI(this.Nacionalidad, value);
             }
         }
 
+        /// <summary>
+        /// Constructor por defecto
+        /// </summary>
         public Persona()
         { }
 
+        /// <summary>
+        /// Constructor que recibe los 3 atributos como parametros
+        /// </summary>
+        /// <param name="nombre"></param>
+        /// <param name="apellido"></param>
+        /// <param name="nacionalidad"></param>
         public Persona(string nombre, string apellido, ENacionalidad nacionalidad)
         {
             this.Nombre = nombre;
@@ -84,18 +109,36 @@ namespace EntidadesAbstractas
             this.Nacionalidad = nacionalidad;
         }
 
+        /// <summary>
+        /// Constructor que ademas recibe int dni como parametro
+        /// </summary>
+        /// <param name="nombre"></param>
+        /// <param name="apellido"></param>
+        /// <param name="dni"></param>
+        /// <param name="nacionalidad"></param>
         public Persona(string nombre, string apellido, int dni, ENacionalidad nacionalidad)
             : this(nombre, apellido, nacionalidad)
         {
             this.DNI = dni;
         }
 
+        /// <summary>
+        /// Constructor que ademas recibe string dni como parametro
+        /// </summary>
+        /// <param name="nombre"></param>
+        /// <param name="apellido"></param>
+        /// <param name="dni"></param>
+        /// <param name="nacionalidad"></param>
         public Persona(string nombre, string apellido, string dni, ENacionalidad nacionalidad)
             : this(nombre, apellido, nacionalidad)
         {
             this.StringToDNI = dni;
         }
 
+        /// <summary>
+        /// sobrecarga ToString que publica los atributos de la clase
+        /// </summary>
+        /// <returns></returns>
         public override string ToString()
         {
             StringBuilder sb = new StringBuilder();
@@ -104,6 +147,12 @@ namespace EntidadesAbstractas
             return sb.ToString();
         }
 
+        /// <summary>
+        /// valida DNI
+        /// </summary>
+        /// <param name="nacionalidad"></param>
+        /// <param name="dato"></param>
+        /// <returns></returns>
         int ValidarDNI(ENacionalidad nacionalidad, int dato)
         {
            if (dato<1 || dato > 99999999)
@@ -113,6 +162,12 @@ namespace EntidadesAbstractas
            return dato;
         }
 
+        /// <summary>
+        /// valida dni string
+        /// </summary>
+        /// <param name="nacionalidad"></param>
+        /// <param name="dato"></param>
+        /// <returns></returns>
         int ValidarDNI(ENacionalidad nacionalidad, string dato)
         {
             int aux;
@@ -122,9 +177,14 @@ namespace EntidadesAbstractas
             return this.ValidarDNI(nacionalidad,aux);
         }
 
+        /// <summary>
+        /// valida string nombre/apellido
+        /// </summary>
+        /// <param name="dato"></param>
+        /// <returns></returns>
         string ValidarNombreApellido(string dato)
         {
-            Regex r = new Regex("^[A-Za-z ]+$");
+            Regex r = new Regex("^[áéíóúa-zA-Z ]+$");
             if(!r.IsMatch(dato))
                 return "";
             return dato;
