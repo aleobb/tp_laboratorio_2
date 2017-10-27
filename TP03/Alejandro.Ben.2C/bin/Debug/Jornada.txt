@@ -1,0 +1,260 @@
+CLASE DE Programacion POR NOMBRE COMPLETO: Juarez, Roberto
+NACIONALIDAD: Argentino
+
+LEGAJO NÚMERO: 2
+CLASES DEL DÍA:
+Programacion
+Legislacion
+
+ALUMNOS:
+NOMBRE COMPLETO: Lopez, Juan
+NACIONALIDAD: Argentino
+
+LEGAJO NÚMERO: 1
+ESTADO DE CUENTA: Becado
+TOMA CLASE DE Programacion
+
+NOMBRE COMPLETO: Hernandez, Miguel
+NACIONALIDAD: Extranjero
+
+LEGAJO NÚMERO: 4
+ESTADO DE CUENTA: Cuota al día
+TOMA CLASE DE Legislacion
+
+NOMBRE COMPLETO: Gonzalez, Carlos
+NACIONALIDAD: Argentino
+
+LEGAJO NÚMERO: 5
+ESTADO DE CUENTA: Cuota al día
+TOMA CLASE DE Programacion
+
+NOMBRE COMPLETO: Perez, Juan
+NACIONALIDAD: Argentino
+
+LEGAJO NÚMERO: 6
+ESTADO DE CUENTA: Deudor
+TOMA CLASE DE Laboratorio
+
+NOMBRE COMPLETO: Suarez, Joaquin
+NACIONALIDAD: Extranjero
+
+LEGAJO NÚMERO: 7
+ESTADO DE CUENTA: Cuota al día
+TOMA CLASE DE Laboratorio
+
+NOMBRE COMPLETO: Smith, Rodrigo
+NACIONALIDAD: Argentino
+
+LEGAJO NÚMERO: 8
+ESTADO DE CUENTA: Cuota al día
+TOMA CLASE DE Legislacion
+
+
+CLASE DE Programacion POR NOMBRE COMPLETO: Juarez, Roberto
+NACIONALIDAD: Argentino
+
+LEGAJO NÚMERO: 2
+CLASES DEL DÍA:
+Programacion
+Programacion
+
+ALUMNOS:
+NOMBRE COMPLETO: Lopez, Juan
+NACIONALIDAD: Argentino
+
+LEGAJO NÚMERO: 1
+ESTADO DE CUENTA: Becado
+TOMA CLASE DE Programacion
+
+NOMBRE COMPLETO: Hernandez, Miguel
+NACIONALIDAD: Extranjero
+
+LEGAJO NÚMERO: 4
+ESTADO DE CUENTA: Cuota al día
+TOMA CLASE DE Legislacion
+
+NOMBRE COMPLETO: Gonzalez, Carlos
+NACIONALIDAD: Argentino
+
+LEGAJO NÚMERO: 5
+ESTADO DE CUENTA: Cuota al día
+TOMA CLASE DE Programacion
+
+NOMBRE COMPLETO: Perez, Juan
+NACIONALIDAD: Argentino
+
+LEGAJO NÚMERO: 6
+ESTADO DE CUENTA: Deudor
+TOMA CLASE DE Laboratorio
+
+NOMBRE COMPLETO: Suarez, Joaquin
+NACIONALIDAD: Extranjero
+
+LEGAJO NÚMERO: 7
+ESTADO DE CUENTA: Cuota al día
+TOMA CLASE DE Laboratorio
+
+NOMBRE COMPLETO: Smith, Rodrigo
+NACIONALIDAD: Argentino
+
+LEGAJO NÚMERO: 8
+ESTADO DE CUENTA: Cuota al día
+TOMA CLASE DE Legislacion
+
+
+CLASE DE Programacion POR NOMBRE COMPLETO: Lopez, Juan
+NACIONALIDAD: Argentino
+
+LEGAJO NÚMERO: 1
+CLASES DEL DÍA:
+Programacion
+Laboratorio
+
+ALUMNOS:
+NOMBRE COMPLETO: Lopez, Juan
+NACIONALIDAD: Argentino
+
+LEGAJO NÚMERO: 1
+ESTADO DE CUENTA: Becado
+TOMA CLASE DE Programacion
+
+NOMBRE COMPLETO: Hernandez, Miguel
+NACIONALIDAD: Extranjero
+
+LEGAJO NÚMERO: 4
+ESTADO DE CUENTA: Cuota al día
+TOMA CLASE DE Legislacion
+
+NOMBRE COMPLETO: Gonzalez, Carlos
+NACIONALIDAD: Argentino
+
+LEGAJO NÚMERO: 5
+ESTADO DE CUENTA: Cuota al día
+TOMA CLASE DE Programacion
+
+NOMBRE COMPLETO: Perez, Juan
+NACIONALIDAD: Argentino
+
+LEGAJO NÚMERO: 6
+ESTADO DE CUENTA: Deudor
+TOMA CLASE DE Laboratorio
+
+NOMBRE COMPLETO: Suarez, Joaquin
+NACIONALIDAD: Extranjero
+
+LEGAJO NÚMERO: 7
+ESTADO DE CUENTA: Cuota al día
+TOMA CLASE DE Laboratorio
+
+NOMBRE COMPLETO: Smith, Rodrigo
+NACIONALIDAD: Argentino
+
+LEGAJO NÚMERO: 8
+ESTADO DE CUENTA: Cuota al día
+TOMA CLASE DE Legislacion
+
+
+CLASE DE Programacion POR NOMBRE COMPLETO: Lopez, Juan
+NACIONALIDAD: Argentino
+
+LEGAJO NÚMERO: 1
+CLASES DEL DÍA:
+Programacion
+Programacion
+
+ALUMNOS:
+NOMBRE COMPLETO: Lopez, Juan
+NACIONALIDAD: Argentino
+
+LEGAJO NÚMERO: 1
+ESTADO DE CUENTA: Becado
+TOMA CLASE DE Programacion
+
+NOMBRE COMPLETO: Hernandez, Miguel
+NACIONALIDAD: Extranjero
+
+LEGAJO NÚMERO: 4
+ESTADO DE CUENTA: Cuota al día
+TOMA CLASE DE Legislacion
+
+NOMBRE COMPLETO: Gonzalez, Carlos
+NACIONALIDAD: Argentino
+
+LEGAJO NÚMERO: 5
+ESTADO DE CUENTA: Cuota al día
+TOMA CLASE DE Programacion
+
+NOMBRE COMPLETO: Perez, Juan
+NACIONALIDAD: Argentino
+
+LEGAJO NÚMERO: 6
+ESTADO DE CUENTA: Deudor
+TOMA CLASE DE Laboratorio
+
+NOMBRE COMPLETO: Suarez, Joaquin
+NACIONALIDAD: Extranjero
+
+LEGAJO NÚMERO: 7
+ESTADO DE CUENTA: Cuota al día
+TOMA CLASE DE Laboratorio
+
+NOMBRE COMPLETO: Smith, Rodrigo
+NACIONALIDAD: Argentino
+
+LEGAJO NÚMERO: 8
+ESTADO DE CUENTA: Cuota al día
+TOMA CLASE DE Legislacion
+
+
+CLASE DE Programacion POR NOMBRE COMPLETO: Juarez, Roberto
+NACIONALIDAD: Argentino
+
+LEGAJO NÚMERO: 2
+CLASES DEL DÍA:
+Programacion
+Laboratorio
+
+ALUMNOS:
+NOMBRE COMPLETO: Lopez, Juan
+NACIONALIDAD: Argentino
+
+LEGAJO NÚMERO: 1
+ESTADO DE CUENTA: Becado
+TOMA CLASE DE Programacion
+
+NOMBRE COMPLETO: Hernandez, Miguel
+NACIONALIDAD: Extranjero
+
+LEGAJO NÚMERO: 4
+ESTADO DE CUENTA: Cuota al día
+TOMA CLASE DE Legislacion
+
+NOMBRE COMPLETO: Gonzalez, Carlos
+NACIONALIDAD: Argentino
+
+LEGAJO NÚMERO: 5
+ESTADO DE CUENTA: Cuota al día
+TOMA CLASE DE Programacion
+
+NOMBRE COMPLETO: Perez, Juan
+NACIONALIDAD: Argentino
+
+LEGAJO NÚMERO: 6
+ESTADO DE CUENTA: Deudor
+TOMA CLASE DE Laboratorio
+
+NOMBRE COMPLETO: Suarez, Joaquin
+NACIONALIDAD: Extranjero
+
+LEGAJO NÚMERO: 7
+ESTADO DE CUENTA: Cuota al día
+TOMA CLASE DE Laboratorio
+
+NOMBRE COMPLETO: Smith, Rodrigo
+NACIONALIDAD: Argentino
+
+LEGAJO NÚMERO: 8
+ESTADO DE CUENTA: Cuota al día
+TOMA CLASE DE Legislacion
+
+

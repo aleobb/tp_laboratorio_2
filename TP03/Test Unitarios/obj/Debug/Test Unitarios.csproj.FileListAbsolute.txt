@@ -1,0 +1,33 @@
+E:\Prog-Lab_II\tp_laboratorio_2\Alejandro.Ben.2C\Test Unitarios\bin\Debug\Test Unitarios.dll
+E:\Prog-Lab_II\tp_laboratorio_2\Alejandro.Ben.2C\Test Unitarios\bin\Debug\Test Unitarios.pdb
+E:\Prog-Lab_II\tp_laboratorio_2\Alejandro.Ben.2C\Test Unitarios\bin\Debug\Archivos.dll
+E:\Prog-Lab_II\tp_laboratorio_2\Alejandro.Ben.2C\Test Unitarios\bin\Debug\Clases Abstractas.dll
+E:\Prog-Lab_II\tp_laboratorio_2\Alejandro.Ben.2C\Test Unitarios\bin\Debug\Clases Instanciables.dll
+E:\Prog-Lab_II\tp_laboratorio_2\Alejandro.Ben.2C\Test Unitarios\bin\Debug\Excepciones.dll
+E:\Prog-Lab_II\tp_laboratorio_2\Alejandro.Ben.2C\Test Unitarios\bin\Debug\Archivos.pdb
+E:\Prog-Lab_II\tp_laboratorio_2\Alejandro.Ben.2C\Test Unitarios\bin\Debug\Clases Abstractas.pdb
+E:\Prog-Lab_II\tp_laboratorio_2\Alejandro.Ben.2C\Test Unitarios\bin\Debug\Clases Instanciables.pdb
+E:\Prog-Lab_II\tp_laboratorio_2\Alejandro.Ben.2C\Test Unitarios\bin\Debug\Excepciones.pdb
+E:\Prog-Lab_II\tp_laboratorio_2\Alejandro.Ben.2C\Test Unitarios\obj\Debug\Test Unitarios.csprojResolveAssemblyReference.cache
+E:\Prog-Lab_II\tp_laboratorio_2\Alejandro.Ben.2C\Test Unitarios\obj\Debug\Test Unitarios.dll
+E:\Prog-Lab_II\tp_laboratorio_2\Alejandro.Ben.2C\Test Unitarios\obj\Debug\Test Unitarios.pdb
+C:\tp_laboratorio_2\TP03\Test Unitarios\bin\Debug\Test Unitarios.dll
+C:\tp_laboratorio_2\TP03\Test Unitarios\bin\Debug\Test Unitarios.pdb
+C:\tp_laboratorio_2\TP03\Test Unitarios\bin\Debug\Archivos.dll
+C:\tp_laboratorio_2\TP03\Test Unitarios\bin\Debug\Clases Abstractas.dll
+C:\tp_laboratorio_2\TP03\Test Unitarios\bin\Debug\Clases Instanciables.dll
+C:\tp_laboratorio_2\TP03\Test Unitarios\bin\Debug\Excepciones.dll
+C:\tp_laboratorio_2\TP03\Test Unitarios\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\tp_laboratorio_2\TP03\Test Unitarios\bin\Debug\Archivos.pdb
+C:\tp_laboratorio_2\TP03\Test Unitarios\bin\Debug\Archivos.dll.config
+C:\tp_laboratorio_2\TP03\Test Unitarios\bin\Debug\Clases Abstractas.pdb
+C:\tp_laboratorio_2\TP03\Test Unitarios\bin\Debug\Clases Abstractas.dll.config
+C:\tp_laboratorio_2\TP03\Test Unitarios\bin\Debug\Clases Instanciables.pdb
+C:\tp_laboratorio_2\TP03\Test Unitarios\bin\Debug\Clases Instanciables.dll.config
+C:\tp_laboratorio_2\TP03\Test Unitarios\bin\Debug\Excepciones.pdb
+C:\tp_laboratorio_2\TP03\Test Unitarios\bin\Debug\Excepciones.dll.config
+C:\tp_laboratorio_2\TP03\Test Unitarios\bin\Debug\es\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\tp_laboratorio_2\TP03\Test Unitarios\obj\Debug\Test Unitarios.csprojResolveAssemblyReference.cache
+C:\tp_laboratorio_2\TP03\Test Unitarios\obj\Debug\Test Unitarios.csproj.CoreCompileInputs.cache
+C:\tp_laboratorio_2\TP03\Test Unitarios\obj\Debug\Test Unitarios.dll
+C:\tp_laboratorio_2\TP03\Test Unitarios\obj\Debug\Test Unitarios.pdb
