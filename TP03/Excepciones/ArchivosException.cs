@@ -11,7 +11,7 @@ namespace Excepciones
         public ArchivosException() : this(null)
         { }
 
-        public ArchivosException(Exception innerException):base("ArchivosException", innerException)
+        public ArchivosException(Exception innerException):base("Error de Archivo", innerException)
         { }
     }
 }

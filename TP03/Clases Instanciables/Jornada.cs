@@ -72,7 +72,7 @@ namespace Clases_Instanciables
 
         public static string Leer()
         {
-            string retorno;
+            string retorno="\nEl archivo no pudo ser leido!\n";
             new Texto().Leer("Jornada.txt",out retorno);
             return retorno;
         }
@@ -99,7 +99,7 @@ namespace Clases_Instanciables
         {
             if (j == a)
                 throw new AlumnoRepetidoException();
-            else if (!object.ReferenceEquals(j, null) && !object.ReferenceEquals(a, null) ) // necesito repetir esta evaluacion porque que j y a sean no iguales(==) no me indica que no lo sean por objetos nulos
+            else if ( !object.ReferenceEquals(j, null) && !object.ReferenceEquals(a, null) ) // necesito repetir esta evaluacion porque que j y a sean no iguales(==) no me indica que no lo sean por objetos nulos
                 j.Alumnos.Add(a);
             return j;
         }
@@ -109,7 +109,7 @@ namespace Clases_Instanciables
         {
             StringBuilder sb = new StringBuilder();
             sb.AppendFormat("CLASE DE {0} POR {1}", this.Clase, this.Instructor.ToString());
-            sb.AppendLine("ALUMNOS:");
+            sb.AppendLine("\nALUMNOS:");
             foreach (Alumno alumno in this.Alumnos)
             {
                  if ( !object.ReferenceEquals(alumno,null) )

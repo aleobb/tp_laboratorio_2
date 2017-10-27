@@ -26,3 +26,19 @@ G:\Prog-Lab_II\tp_laboratorio_2\Alejandro.Ben.2C\Clases Instanciables\bin\Debug\
 G:\Prog-Lab_II\tp_laboratorio_2\Alejandro.Ben.2C\Clases Instanciables\obj\Debug\Clases Instanciables.csprojResolveAssemblyReference.cache
 G:\Prog-Lab_II\tp_laboratorio_2\Alejandro.Ben.2C\Clases Instanciables\obj\Debug\Clases Instanciables.dll
 G:\Prog-Lab_II\tp_laboratorio_2\Alejandro.Ben.2C\Clases Instanciables\obj\Debug\Clases Instanciables.pdb
+L:\Prog-Lab_II\tp_laboratorio_2\Alejandro.Ben.2C\Clases Instanciables\bin\Debug\Clases Instanciables.dll.config
+L:\Prog-Lab_II\tp_laboratorio_2\Alejandro.Ben.2C\Clases Instanciables\bin\Debug\Clases Instanciables.dll
+L:\Prog-Lab_II\tp_laboratorio_2\Alejandro.Ben.2C\Clases Instanciables\bin\Debug\Clases Instanciables.pdb
+L:\Prog-Lab_II\tp_laboratorio_2\Alejandro.Ben.2C\Clases Instanciables\bin\Debug\Archivos.dll
+L:\Prog-Lab_II\tp_laboratorio_2\Alejandro.Ben.2C\Clases Instanciables\bin\Debug\Clases Abstractas.dll
+L:\Prog-Lab_II\tp_laboratorio_2\Alejandro.Ben.2C\Clases Instanciables\bin\Debug\Excepciones.dll
+L:\Prog-Lab_II\tp_laboratorio_2\Alejandro.Ben.2C\Clases Instanciables\bin\Debug\Archivos.pdb
+L:\Prog-Lab_II\tp_laboratorio_2\Alejandro.Ben.2C\Clases Instanciables\bin\Debug\Archivos.dll.config
+L:\Prog-Lab_II\tp_laboratorio_2\Alejandro.Ben.2C\Clases Instanciables\bin\Debug\Clases Abstractas.pdb
+L:\Prog-Lab_II\tp_laboratorio_2\Alejandro.Ben.2C\Clases Instanciables\bin\Debug\Clases Abstractas.dll.config
+L:\Prog-Lab_II\tp_laboratorio_2\Alejandro.Ben.2C\Clases Instanciables\bin\Debug\Excepciones.pdb
+L:\Prog-Lab_II\tp_laboratorio_2\Alejandro.Ben.2C\Clases Instanciables\bin\Debug\Excepciones.dll.config
+L:\Prog-Lab_II\tp_laboratorio_2\Alejandro.Ben.2C\Clases Instanciables\obj\Debug\Clases Instanciables.csprojResolveAssemblyReference.cache
+L:\Prog-Lab_II\tp_laboratorio_2\Alejandro.Ben.2C\Clases Instanciables\obj\Debug\Clases Instanciables.csproj.CoreCompileInputs.cache
+L:\Prog-Lab_II\tp_laboratorio_2\Alejandro.Ben.2C\Clases Instanciables\obj\Debug\Clases Instanciables.dll
+L:\Prog-Lab_II\tp_laboratorio_2\Alejandro.Ben.2C\Clases Instanciables\obj\Debug\Clases Instanciables.pdb

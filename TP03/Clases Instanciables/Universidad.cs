@@ -61,12 +61,19 @@ namespace Clases_Instanciables
         {
             get
             {
-                return this.Jornadas[i];
+                if (i >= 0 && i < this.Jornadas.Count)
+                    return this.Jornadas[i];
+                throw new IndiceInvalidoException();
             }
 
             set
             {
-                this.Jornadas[i] = value;
+                if (i >= 0 && i < this.Jornadas.Count)
+                    this.Jornadas[i] = value;
+                else if (i == this.Jornadas.Count)
+                    this.Jornadas.Add(value);
+                else
+                    throw new IndiceInvalidoException();
             }
         }
 
@@ -165,8 +172,8 @@ namespace Clases_Instanciables
                 Jornada j = new Jornada(clase, g == clase);
                 foreach (Alumno alumno in g.Alumnos)
                 {
-                    if ( !object.ReferenceEquals(alumno, null) )
-                        j+=alumno;
+                    if ( !object.ReferenceEquals(alumno, null) && alumno == clase ) // acá evaluo los alumnos que toman esa clase para agregarlos (en caso afirmativo) a la jornada
+                        j+=alumno; 
                 }
                 g.Jornadas.Add(j);
             }

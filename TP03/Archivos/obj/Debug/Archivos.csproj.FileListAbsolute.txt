@@ -16,3 +16,13 @@ G:\Prog-Lab_II\tp_laboratorio_2\Alejandro.Ben.2C\Archivos\bin\Debug\Excepciones.
 G:\Prog-Lab_II\tp_laboratorio_2\Alejandro.Ben.2C\Archivos\bin\Debug\Excepciones.dll.config
 G:\Prog-Lab_II\tp_laboratorio_2\Alejandro.Ben.2C\Archivos\obj\Debug\Archivos.dll
 G:\Prog-Lab_II\tp_laboratorio_2\Alejandro.Ben.2C\Archivos\obj\Debug\Archivos.pdb
+L:\Prog-Lab_II\tp_laboratorio_2\Alejandro.Ben.2C\Archivos\bin\Debug\Archivos.dll.config
+L:\Prog-Lab_II\tp_laboratorio_2\Alejandro.Ben.2C\Archivos\bin\Debug\Archivos.dll
+L:\Prog-Lab_II\tp_laboratorio_2\Alejandro.Ben.2C\Archivos\bin\Debug\Archivos.pdb
+L:\Prog-Lab_II\tp_laboratorio_2\Alejandro.Ben.2C\Archivos\bin\Debug\Excepciones.dll
+L:\Prog-Lab_II\tp_laboratorio_2\Alejandro.Ben.2C\Archivos\bin\Debug\Excepciones.pdb
+L:\Prog-Lab_II\tp_laboratorio_2\Alejandro.Ben.2C\Archivos\bin\Debug\Excepciones.dll.config
+L:\Prog-Lab_II\tp_laboratorio_2\Alejandro.Ben.2C\Archivos\obj\Debug\Archivos.csprojResolveAssemblyReference.cache
+L:\Prog-Lab_II\tp_laboratorio_2\Alejandro.Ben.2C\Archivos\obj\Debug\Archivos.csproj.CoreCompileInputs.cache
+L:\Prog-Lab_II\tp_laboratorio_2\Alejandro.Ben.2C\Archivos\obj\Debug\Archivos.dll
+L:\Prog-Lab_II\tp_laboratorio_2\Alejandro.Ben.2C\Archivos\obj\Debug\Archivos.pdb

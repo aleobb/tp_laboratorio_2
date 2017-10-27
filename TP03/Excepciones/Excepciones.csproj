@@ -47,6 +47,7 @@
     <Compile Include="AlumnoRepetidoException.cs" />
     <Compile Include="ArchivosException.cs" />
     <Compile Include="DniInvalidoException.cs" />
+    <Compile Include="IndiceInvalidoException.cs" />
     <Compile Include="NacionalidadInvalidaException.cs" />
     <Compile Include="ProfesorRepetidoException.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

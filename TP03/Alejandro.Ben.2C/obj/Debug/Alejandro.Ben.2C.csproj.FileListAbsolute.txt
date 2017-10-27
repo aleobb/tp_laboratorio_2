@@ -32,3 +32,22 @@ G:\Prog-Lab_II\tp_laboratorio_2\Alejandro.Ben.2C\Alejandro.Ben.2C\bin\Debug\Exce
 G:\Prog-Lab_II\tp_laboratorio_2\Alejandro.Ben.2C\Alejandro.Ben.2C\obj\Debug\Alejandro.Ben.2C.csprojResolveAssemblyReference.cache
 G:\Prog-Lab_II\tp_laboratorio_2\Alejandro.Ben.2C\Alejandro.Ben.2C\obj\Debug\Alejandro.Ben.2C.exe
 G:\Prog-Lab_II\tp_laboratorio_2\Alejandro.Ben.2C\Alejandro.Ben.2C\obj\Debug\Alejandro.Ben.2C.pdb
+L:\Prog-Lab_II\tp_laboratorio_2\Alejandro.Ben.2C\Alejandro.Ben.2C\bin\Debug\Alejandro.Ben.2C.exe.config
+L:\Prog-Lab_II\tp_laboratorio_2\Alejandro.Ben.2C\Alejandro.Ben.2C\bin\Debug\Alejandro.Ben.2C.exe
+L:\Prog-Lab_II\tp_laboratorio_2\Alejandro.Ben.2C\Alejandro.Ben.2C\bin\Debug\Alejandro.Ben.2C.pdb
+L:\Prog-Lab_II\tp_laboratorio_2\Alejandro.Ben.2C\Alejandro.Ben.2C\bin\Debug\Archivos.dll
+L:\Prog-Lab_II\tp_laboratorio_2\Alejandro.Ben.2C\Alejandro.Ben.2C\bin\Debug\Clases Abstractas.dll
+L:\Prog-Lab_II\tp_laboratorio_2\Alejandro.Ben.2C\Alejandro.Ben.2C\bin\Debug\Clases Instanciables.dll
+L:\Prog-Lab_II\tp_laboratorio_2\Alejandro.Ben.2C\Alejandro.Ben.2C\bin\Debug\Excepciones.dll
+L:\Prog-Lab_II\tp_laboratorio_2\Alejandro.Ben.2C\Alejandro.Ben.2C\bin\Debug\Archivos.pdb
+L:\Prog-Lab_II\tp_laboratorio_2\Alejandro.Ben.2C\Alejandro.Ben.2C\bin\Debug\Archivos.dll.config
+L:\Prog-Lab_II\tp_laboratorio_2\Alejandro.Ben.2C\Alejandro.Ben.2C\bin\Debug\Clases Abstractas.pdb
+L:\Prog-Lab_II\tp_laboratorio_2\Alejandro.Ben.2C\Alejandro.Ben.2C\bin\Debug\Clases Abstractas.dll.config
+L:\Prog-Lab_II\tp_laboratorio_2\Alejandro.Ben.2C\Alejandro.Ben.2C\bin\Debug\Clases Instanciables.pdb
+L:\Prog-Lab_II\tp_laboratorio_2\Alejandro.Ben.2C\Alejandro.Ben.2C\bin\Debug\Clases Instanciables.dll.config
+L:\Prog-Lab_II\tp_laboratorio_2\Alejandro.Ben.2C\Alejandro.Ben.2C\bin\Debug\Excepciones.pdb
+L:\Prog-Lab_II\tp_laboratorio_2\Alejandro.Ben.2C\Alejandro.Ben.2C\bin\Debug\Excepciones.dll.config
+L:\Prog-Lab_II\tp_laboratorio_2\Alejandro.Ben.2C\Alejandro.Ben.2C\obj\Debug\Alejandro.Ben.2C.csprojResolveAssemblyReference.cache
+L:\Prog-Lab_II\tp_laboratorio_2\Alejandro.Ben.2C\Alejandro.Ben.2C\obj\Debug\Alejandro.Ben.2C.csproj.CoreCompileInputs.cache
+L:\Prog-Lab_II\tp_laboratorio_2\Alejandro.Ben.2C\Alejandro.Ben.2C\obj\Debug\Alejandro.Ben.2C.exe
+L:\Prog-Lab_II\tp_laboratorio_2\Alejandro.Ben.2C\Alejandro.Ben.2C\obj\Debug\Alejandro.Ben.2C.pdb

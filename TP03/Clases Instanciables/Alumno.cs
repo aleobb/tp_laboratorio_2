@@ -38,16 +38,6 @@ namespace Clases_Instanciables
 
         protected override string ParticiparEnClase()
         {
-            /*
-            StringBuilder sb = new StringBuilder("TOMA CLASE DE ");
-            switch (this.claseQueToma)
-            {
-                case EClases.Laboratorio:
-                    sb.Append("Laboratorio");
-                    break;
-            }
-            return sb.ToString();
-            */
             return string.Format("TOMA CLASE DE " + this.claseQueToma);
         }
 
@@ -55,16 +45,14 @@ namespace Clases_Instanciables
         {
             StringBuilder sb = new StringBuilder();
             sb.AppendLine(base.MostrarDatos());
-            if (this.estadoCuenta == EEstadoCuenta.AlDia)
-            {
-                sb.AppendLine("ESTADO DE CUENTA: Cuota al día");
-            }
-            else
-            {
-                sb.AppendFormat("ESTADO DE CUENTA: {0}\n", this.estadoCuenta);
-            }
-            sb.AppendLine(this.ParticiparEnClase());
 
+            if (this.estadoCuenta == EEstadoCuenta.AlDia)
+                sb.AppendLine("ESTADO DE CUENTA: Cuota al día");
+            else
+                sb.AppendFormat("ESTADO DE CUENTA: {0}\n", this.estadoCuenta);
+
+            sb.AppendLine(this.ParticiparEnClase());
+                
             return sb.ToString();
         }
 
@@ -75,12 +63,12 @@ namespace Clases_Instanciables
 
         public static bool operator ==(Alumno a,Universidad.EClases clase)
         {
-            return !(a!=clase) && a.estadoCuenta!=EEstadoCuenta.Deudor;
+            return !(a!=clase) && a.estadoCuenta!=EEstadoCuenta.Deudor; //al reutilizar el != evito agregar la evaluacion if ( !object.ReferenceEquals(a, null) )
         }
 
         public static bool operator !=(Alumno a, Universidad.EClases clase)
         {
-            if (a is Alumno && !object.ReferenceEquals(a, null))
+            if ( !object.ReferenceEquals(a, null) )
                 return a.claseQueToma != clase;
             return false;
         }

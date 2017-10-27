@@ -16,7 +16,7 @@ namespace Archivos
         {
             try
             { 
-                using (StreamWriter file = new StreamWriter(archivo,true))
+                using (StreamWriter file = new StreamWriter(archivo,false))
                 {
                     file.WriteLine(datos);
                     file.Close();
@@ -35,7 +35,7 @@ namespace Archivos
             {
                 using (StreamReader file = new StreamReader(archivo))
                 {
-                    datos = file.ReadLine();
+                    datos = file.ReadToEnd();
                     file.Close();
                 }
                 return true;

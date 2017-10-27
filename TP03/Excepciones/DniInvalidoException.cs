@@ -8,12 +8,12 @@ namespace Excepciones
 {
     public class DniInvalidoException : Exception
     {
-        string mensajeBase;
+        static string mensajeBase = "DNI Inválido";
 
-        public DniInvalidoException() : base("DNI Inválido")
+        public DniInvalidoException() : base(mensajeBase)
         { }
 
-        public DniInvalidoException(Exception e) : base("DNI Inválido", e)
+        public DniInvalidoException(Exception e) : base(mensajeBase, e)
         { }
 
         public DniInvalidoException(string message, Exception e) : base(message, e)
