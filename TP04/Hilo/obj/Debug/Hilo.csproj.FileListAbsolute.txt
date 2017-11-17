@@ -1,0 +1,16 @@
+D:\Federico\VB .Net\Visual C#\utn\Navegador\Hilo\bin\Debug\Hilo.dll
+D:\Federico\VB .Net\Visual C#\utn\Navegador\Hilo\bin\Debug\Hilo.pdb
+D:\Federico\VB .Net\Visual C#\utn\Navegador\Hilo\obj\Debug\Hilo.csprojResolveAssemblyReference.cache
+D:\Federico\VB .Net\Visual C#\utn\Navegador\Hilo\obj\Debug\Hilo.dll
+D:\Federico\VB .Net\Visual C#\utn\Navegador\Hilo\obj\Debug\Hilo.pdb
+C:\Users\profesor\Downloads\Navegador TP-4\Hilo\bin\Debug\Hilo.dll
+C:\Users\profesor\Downloads\Navegador TP-4\Hilo\bin\Debug\Hilo.pdb
+C:\Users\profesor\Downloads\Navegador TP-4\Hilo\obj\Debug\Hilo.csprojResolveAssemblyReference.cache
+C:\Users\profesor\Downloads\Navegador TP-4\Hilo\obj\Debug\Hilo.dll
+C:\Users\profesor\Downloads\Navegador TP-4\Hilo\obj\Debug\Hilo.pdb
+G:\Prog-Lab_II\tp_laboratorio_2\TP04\Navegador TP-4 - ALEJANDRO.BEN.2C\Hilo\bin\Debug\Hilo.dll
+G:\Prog-Lab_II\tp_laboratorio_2\TP04\Navegador TP-4 - ALEJANDRO.BEN.2C\Hilo\bin\Debug\Hilo.pdb
+G:\Prog-Lab_II\tp_laboratorio_2\TP04\Navegador TP-4 - ALEJANDRO.BEN.2C\Hilo\obj\Debug\Hilo.csprojResolveAssemblyReference.cache
+G:\Prog-Lab_II\tp_laboratorio_2\TP04\Navegador TP-4 - ALEJANDRO.BEN.2C\Hilo\obj\Debug\Hilo.csproj.CoreCompileInputs.cache
+G:\Prog-Lab_II\tp_laboratorio_2\TP04\Navegador TP-4 - ALEJANDRO.BEN.2C\Hilo\obj\Debug\Hilo.dll
+G:\Prog-Lab_II\tp_laboratorio_2\TP04\Navegador TP-4 - ALEJANDRO.BEN.2C\Hilo\obj\Debug\Hilo.pdb
